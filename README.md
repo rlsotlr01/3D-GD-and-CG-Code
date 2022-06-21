@@ -1,6 +1,7 @@
 # 3D-GD-CG-Code
 
 Student Name: Dongyoon Kim
+
 Student ID: 2021280036
 
 Conjugate_gradient_to_solve_LE.py
