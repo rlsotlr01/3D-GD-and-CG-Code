@@ -4,6 +4,11 @@ Conjugate_gradient_to_solve_LE.py
 - Notice: the number of columns in A matrix must be same with the number of raws in b matrix.
 
 
+1. Solve the linear equation(Ax=b) by using CG and compare the original solution
+<img width="356" alt="image" src="https://user-images.githubusercontent.com/72294130/174854931-a2d3bb94-aa74-4c03-882e-27c13e9bfd84.png">
+
+
+
 --------------------
 
 Conjugate_gradient_with_WL.py
@@ -24,14 +29,11 @@ Conjugate_gradient_with_WL.py
 
 --------------------
 
-gradient_descent_for_fitting.py
-
-
-
---------------------
-
 gradient_descent_for_optimization.py
 - Explanation: Solve the optimization problem by using GD method
+
+1. Find the optimal solution by using GD method
+<img width="457" alt="image" src="https://user-images.githubusercontent.com/72294130/174855429-d8610852-bdbc-4f60-926b-368ce5af8a1f.png">
 
 
 --------------------
@@ -39,6 +41,8 @@ gradient_descent_for_optimization.py
 gradient_descent_to_solve_LE.py
 - Explanation: Solve the linear equation (Ax=b) by using GD method
 
+1. Solve the linear equation(Ax=b) by using GD method
+<img width="274" alt="image" src="https://user-images.githubusercontent.com/72294130/174855138-9955a6f8-90e3-4767-94b3-316551ebc3ab.png">
 
 
 --------------------
