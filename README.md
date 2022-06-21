@@ -1,4 +1,8 @@
 # 3D-GD-CG-Code
+
+Student Name: Dongyoon Kim
+Student ID: 2021280036
+
 Conjugate_gradient_to_solve_LE.py
 - Explanation: Solve the linear equation(Ax=b) by using CG method
 - Notice: the number of columns in A matrix must be same with the number of raws in b matrix.
